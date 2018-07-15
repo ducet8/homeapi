@@ -1,0 +1,6 @@
+bs4
+click
+configparser
+flask
+flask_restful
+gunicorn
